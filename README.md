@@ -1,6 +1,7 @@
-# alquranapp
+# Go Ramadhan
+Jangan Ngoding Mulu, Ibadah Gi sana!!!, baca surah dan asmaul husna insyallah berkah
 
-A new Flutter project.
+<img src="screen.gif"/>
 
 ## Getting Started
 
